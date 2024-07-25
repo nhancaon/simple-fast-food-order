@@ -1,0 +1,5 @@
+Order Confirmation: Verify order details before payment.
+Payment: Use accepted payment methods; payments are non-refundable.
+Product Inspection: Check products upon receipt and report issues immediately.
+Return Policy: No returns or exchanges after receipt, except for defective or incorrect items.
+Support Contact: Contact customer support for any issues.
